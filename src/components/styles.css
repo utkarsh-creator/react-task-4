@@ -1,0 +1,11 @@
+table {
+    border: 1px solid;
+    border-radius: 10px;
+    overflow-x: auto;
+}
+
+table th {
+    border-bottom: 1px solid;
+    white-space: nowrap;
+    padding: 5px;
+}
